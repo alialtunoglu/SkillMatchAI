@@ -162,8 +162,8 @@ Değerlendirme → Cevaplar → Gemini AI → Performans Analizi → Adaptif Aya
 ### RAG Eklenmesi İçin:
 1. **Vektör Veritabanı Entegrasyonu** (örn: Pinecone, Supabase Vector)
 2. **Eğitim Materyali İndexleme**: YouTube videoları, makaleler, e-kitaplar
-3. **Semantic Search**: Kullanıcı sorularına en uygun kaynakları bulma
-4. **Citation/Kaynak Gösterme**: Üretilen içerikte kaynak belirtme
+3. **Anlamsal Arama (Semantic Search)**: Kullanıcı sorularına en uygun kaynakları bulma
+4. **Kaynak Gösterme**: Üretilen içerikte kaynak belirtme
 5. **Güncel Bilgi**: Haber ve güncel gelişmeleri içerik üretimine dahil etme
 
 ### Diğer İyileştirmeler:
@@ -171,7 +171,7 @@ Değerlendirme → Cevaplar → Gemini AI → Performans Analizi → Adaptif Aya
 - Video içerik üretimi
 - Sesli asistan
 - Sosyal öğrenme özellikleri
-- Gamification (rozetler, liderlik tablosu)
+- Oyunlaştırma (rozetler, liderlik tablosu)
 
 ## 🔐 Güvenlik ve Rate Limiting
 

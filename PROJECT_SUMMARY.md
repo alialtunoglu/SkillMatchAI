@@ -161,7 +161,7 @@ Evaluation → Answers → Gemini AI → Performance Analysis → Adaptive Adjus
 1. **Vector Database Integration** (e.g., Pinecone, Supabase Vector)
 2. **Educational Material Indexing**: YouTube videos, articles, e-books
 3. **Semantic Search**: Finding the most suitable sources for user questions
-4. **Citation/Source Attribution**: Including sources in generated content
+4. **Source Attribution**: Including citations in generated content
 5. **Current Information**: Including news and current developments in content generation
 
 ### Other Improvements:
